@@ -12,6 +12,10 @@ I have not figured out what the other axis is, I have the frequency but the "imp
 At this time the intent is a minified code blob you paste into dev tools on some page.
 It should be a browser extension ideally but future work.
 
+### 05/12/2020
+Some UI thoughts of parts of the steps. Drawn with krita
+!['ui thoughts'](./ui-ideas.PNG)
+
 ### 04/18/2020
 Example of current version, really bad needs to be cleaned up
 !['v1'](./v1-demo.png)

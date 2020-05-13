@@ -12,6 +12,9 @@ I have not figured out what the other axis is, I have the frequency but the "imp
 At this time the intent is a minified code blob you paste into dev tools on some page.
 It should be a browser extension ideally but future work.
 
+### Other features
+* differentiate(two runs) distinct and lower case matches eg. `Word` vs. `word` in case of duplicates.
+
 ### 05/12/2020
 Some UI thoughts of parts of the steps. Drawn with krita
 !['ui thoughts'](./ui-ideas.PNG)

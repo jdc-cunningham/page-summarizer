@@ -1,4 +1,4 @@
-# page-summarizer
+# Text scanner
 This is a project to get a word frequency count.
 
 Ideally you can can:
